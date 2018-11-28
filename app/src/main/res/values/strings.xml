@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="m_sp">Mã SP:</string>
+    <string name="nh_p_m_sp">Nhập Mã SP</string>
+    <string name="t_n_sp">Tên SP:</string>
+    <string name="nh_p_t_n_sp">Nhập Tên SP</string>
+    <string name="gi_ti_n">Giá Tiền:</string>
+    <string name="nh_p_gi_ti_n">Nhập Giá Tiền</string>
+    <string name="l_u">Lưu</string>
+</resources>
